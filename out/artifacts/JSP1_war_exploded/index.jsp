@@ -8,12 +8,15 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>JSP</title>
   </head>
   <body>
-  $END$
+  <button>提交</button>
   <%
     out.print("fasdfgd");
   %>
+  <br>
+  <%
+out.print("sdfaaf");  %>
   </body>
 </html>
