@@ -11,12 +11,5 @@
     <title>JSP</title>
   </head>
   <body>
-  <button>提交</button>
-  <%
-    out.print("fasdfgd");
-  %>
-  <br>
-  <%
-out.print("sdfaaf");  %>
   </body>
 </html>
