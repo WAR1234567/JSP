@@ -11,12 +11,23 @@
     <title>JSP</title>
   </head>
   <body>
-  <button>提交</button>
-  <%
-    out.print("fasdfgd");
-  %>
-  <br>
-  <%
-out.print("sdfaaf");  %>
   </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>欢迎登录</title>
+</head>
+<body>
+<div align="center">
+  <form method="post" action="loginsuccess.jsp">
+    用户名：<input type="text" name="username"><br>
+    密码  ：<input type="password" name="password"><br>
+    <button type="submit">登录<tton>   </form>
+  <form method="post" action="register.html">
+    <button type="submit" >注册<tton>
+  </form>
+</div>
+</body>
+<ml>
