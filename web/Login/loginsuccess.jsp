@@ -23,7 +23,7 @@
         session.setAttribute("name",username);//创建session 并向表中增加一行name(如果已经存在就会覆盖)
 
     }else{
-        out.println("登陆失败1111");
+        out.println("登陆失败");
 
     }
 
